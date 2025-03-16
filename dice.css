@@ -1,0 +1,40 @@
+#container{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 2rem;
+}
+h1{
+    color: rgb(70, 135, 255);
+}
+button{
+    font-size: 1rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: brown;
+    color: white;
+    transition-duration: 0.3s;
+    border: none;
+    font-weight: bold;
+}
+button:hover{
+    background-color: red;
+    transition-duration: 0.3s;
+}
+button:active{
+    background-color: brown;
+}
+input{
+    width: 12%;
+    font-size: 0.7em;
+    text-align: center;
+    font-weight: bold;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+div{
+    margin: auto;
+    width: 800px;
+}
